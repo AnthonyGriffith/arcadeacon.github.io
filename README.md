@@ -10,10 +10,10 @@ Creator:
 Tadeo Kondrak
 
 Coder(s):
-Tadeo Kondrak
+Tadeo Kondrak,
 Anthony Griffith
 
 All Contributors:
-Tadeo Kondrak
-Anthony Griffith
+Tadeo Kondrak,
+Anthony Griffith,
 Justin Weisser
