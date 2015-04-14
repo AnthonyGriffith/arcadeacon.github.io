@@ -1,8 +1,5 @@
-# Arcadeacon
+# Arcadeacon ![](https://img.shields.io/badge/status-incomplete-red.svg)
 Arcadeacon: A Free No-Ad Flash Game website created from scratch using HTML.
-
-Status:
-Uncomplete
 
 Contributors:
 
