@@ -655,35 +655,6 @@ input.ct-red + span.switch-left, input.ct-red + span + label + span.switch-right
     }
 }
 
-/*          Aici schimbarile pentru ecran mai mic de 768px      */
-
-@media (max-width: 768px){ 
-    .navbar-transparent{
-        padding-top: 15px;
-        background-color: rgba(0, 0, 0, 0.45);
-    }
-    .navbar-transparent .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-transparent .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-transparent .dropdown-menu > li > a:hover, .navbar-transparent .dropdown-menu > li > a:focus, [class*="navbar-ct"] .dropdown-menu > li > a:hover, [class*="navbar-ct"] .dropdown-menu > li > a:focus{
-        color: #FFFFFF;
-        background-color: rgba(0,0,0,0);
-        opacity: 1;
-    }
-    .navbar-transparent .navbar-nav .open .dropdown-menu > li > a, [class*="navbar-ct"] .dropdown-menu > li > a {
-        color: #FFFFFF;
-        opacity: 0.8;
-    }
-    .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
-        background-color: rgba(0,0,0,0);
-        border-color: #428BCA;
-    }
-    .navbar-collapse{
-        text-align: center;
-    }
-    .navbar-collapse .navbar-form {
-        width: 170px;
-        margin: 0 auto;
-    }
-    
-}
 
 /*           Labels & Progress-bar              */
 .label{
