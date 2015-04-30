@@ -14,9 +14,9 @@ var tipuesearch = {"pages": [
      {"title": "Papa's Taco Mia", "text": "", "tags": "papas papa's Taco Mia", "url": "http://arcadeacon.tdeo.me/Games/Papas-Taco-Mia/"},
      {"title": "Pappa's Burgeria", "text": "", "tags": "papas pappa's Burgeria", "url": "http://arcadeacon.tdeo.me/Games/Papa's Burgeria/"},
      {"title": "Papa's Hot Doggeria", "text": "", "tags": "papas papa's Hot Doggeria", "url": "http://arcadeacon.tdeo.me/Games/Papas-Hot-Doggeria/"},
-     {"title": "Cactus McCoy", "text": "", "tags": "cactus mccoy", "url": "http://arcadeacon.tdeo.me/Games/Cactus-McCoy/"}
-     {"title": "Cactus McCoy 2", "text": "", "tags": "cactus mccoy 2", "url": "http://arcadeacon.tdeo.me/Games/Cactus-McCoy-2/"}
-     {"title": "Steak and Jake", "text": "", "tags": "Steak and Jake", "url": "http://arcadeacon.tdeo.me/Games/Steak-and-Jake/"}
+     {"title": "Cactus McCoy", "text": "", "tags": "cactus mccoy", "url": "http://arcadeacon.tdeo.me/Games/Cactus-McCoy/"},
+     {"title": "Cactus McCoy 2", "text": "", "tags": "cactus mccoy 2", "url": "http://arcadeacon.tdeo.me/Games/Cactus-McCoy-2/"},
+     {"title": "Steak and Jake", "text": "", "tags": "Steak and Jake", "url": "http://arcadeacon.tdeo.me/Games/Steak-and-Jake/"},
      {"title": "Steak and Jake: Midnight March", "text": "", "tags": "Steak and Jake: Midnight March", "url": "http://arcadeacon.tdeo.me/Games/Steak-and-Jake-Midnight-March/"}
      
 ]};
