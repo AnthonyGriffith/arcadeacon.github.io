@@ -417,11 +417,11 @@ http://www.tipue.com/search
                               {
                                    var pages = Math.ceil(c / set.show);
                                    var page = (start / set.show);
-                                   out += '<div id="tipue_search_foot"><ul id="tipue_search_foot_boxes">';
+                                   out += '<div id="tipue_search_foot"><ul class="btn btn-default" id="tipue_search_foot_boxes">';
                                    
                                    if (start > 0)
                                    {
-                                       out += '<li><a class="tipue_search_foot_box" id="' + (start - set.show) + '_' + replace + '">' + tipuesearch_string_6 + '</a></li>'; 
+                                       out += '<li><a class="tipue_search_foot_box btn btn-default" id="' + (start - set.show) + '_' + replace + '">' + tipuesearch_string_6 + '</a></li>'; 
                                    }
                                                        
                                    if (page <= 2)
@@ -439,7 +439,7 @@ http://www.tipue.com/search
                                              }
                                              else
                                              {
-                                                  out += '<li><a class="tipue_search_foot_box" id="' + (f * set.show) + '_' + replace + '">' + (f + 1) + '</a></li>';
+                                                  out += '<li><a class="tipue_search_foot_box btn btn-default" id="' + (f * set.show) + '_' + replace + '">' + (f + 1) + '</a></li>';
                                              }
                                         }
                                    }
@@ -465,7 +465,7 @@ http://www.tipue.com/search
                                                       
                                    if (page + 1 != pages)
                                    {
-                                       out += '<li><a class="tipue_search_foot_box" id="' + (start + set.show) + '_' + replace + '">' + tipuesearch_string_7 + '</a></li>'; 
+                                       out += '<li><a class="tipue_search_foot_box btn btn-default" id="' + (start + set.show) + '_' + replace + '">' + tipuesearch_string_7 + '</a></li>'; 
                                    }                    
                                    
                                    out += '</ul></div>';
