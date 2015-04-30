@@ -61,6 +61,7 @@
     </div>
     <script>
     $(document).ready(function() {
+         $('.form-control').val(location.search.split('q=')[1])
          $(location.search.split('q=')[1]).tipuesearch();
     });
     </script>
