@@ -1,16 +1,16 @@
-# Arcadeacon ![](https://img.shields.io/badge/status-incomplete-red.svg)
-Arcadeacon: An Ad-Free flash game website.
+# Arcadeacon ![](https://img.shields.io/badge/status-incomplete-red.svg)![](https://img.shields.io/github/issues/TadeoKondrak/Arcadeacon.svg)
+Arcadeacon: An ad-free flash game website without any clutter.
 
 Contributors:
 
 Creator:
 Tadeo Kondrak
 
-Coder(s):
+Contributors:
 Tadeo Kondrak,
 Anthony Griffith
 
-All Contributors:
+Members:
 Tadeo Kondrak,
 Anthony Griffith,
 Justin Weisser
