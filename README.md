@@ -1,4 +1,4 @@
-# Arcadeacon ![](https://img.shields.io/badge/status-incomplete-red.svg)![](https://img.shields.io/github/issues/TadeoKondrak/Arcadeacon.svg)
+# Arcadeacon ![](https://img.shields.io/badge/status-incomplete-red.svg) ![](https://img.shields.io/github/issues/TadeoKondrak/Arcadeacon.svg)
 Arcadeacon: An ad-free flash game website without any clutter.
 
 Contributors:
