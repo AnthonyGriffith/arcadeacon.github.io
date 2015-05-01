@@ -14,5 +14,3 @@ Members:
 Tadeo Kondrak,
 Anthony Griffith,
 Justin Weisser
-
-Support Team: Anthony Griffith, Tadeo Kondrak, Justin Weisser
