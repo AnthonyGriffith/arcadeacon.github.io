@@ -16,13 +16,12 @@
     <![endif]-->
     <script>
     makePage = function(a,b,c){
-      $('#html').val('<!DOCTYPE html>
-<html lang="en">
+      $('#html').val("""<!DOCTYPE html><html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Arcadeacon | Gold Miner</title><!-- CHANGE -->
+    <title>Arcadeacon | """+a+"""</title><!-- CHANGE -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../css/main.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -73,13 +72,13 @@
     </nav>
     <div class="container">
       <div style="text-align: center;">
-        <h1>'+a+'</h1>
-        <h4>'+b+'</h4><br />
-        <iframe src="'+c+'" width="960px" height="720px"></iframe>
+        <h1>"""+a+"""</h1>
+        <h4>"""+b+"""</h4><br />
+        <iframe src='""+c+"""' width="960px" height="720px"></iframe>
       </div>
     </div>
   </body>
-</html>')
+</html>""")
     }
     </script>
   </head>
