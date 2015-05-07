@@ -18,7 +18,7 @@ var tipuesearch = {"pages": [
      {"title": "Cactus McCoy 2", "text": "", "tags": "cactus mccoy 2", "url": "Games/Cactus-McCoy-2/"},
      {"title": "Steak and Jake", "text": "", "tags": "Steak and Jake", "url": "Games/Steak-and-Jake/"},
      {"title": "Steak and Jake: Midnight March", "text": "", "tags": "Steak and Jake: Midnight March", "url": "Games/Steak-and-Jake-Midnight-March/"}
-     
+     {"title": "Medieval Fury", "text": "", "tags": "fury medieval medeival exclusive", "url": "Games/Medieval-Fury/"},
 ]};
 
 
