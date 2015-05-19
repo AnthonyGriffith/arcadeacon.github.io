@@ -20,7 +20,19 @@ var tipuesearch = {"pages": [
      {"title": "Steak and Jake: Midnight March", "text": "", "tags": "Steak and Jake: Midnight March", "url": "Games/Steak-and-Jake-Midnight-March/"},
      {"title": "Medieval Fury", "text": "", "tags": "fury medieval medeival exclusive", "url": "Games/Medieval-Fury/"},
      {"title": "Circle Clicker", "text": "", "tags": "circle clicker cookie", "url": "Games/Circle-Clicker/"},
-     {"title": "2048", "text": "", "tags": "2048 threes", "url": "Games/2048/"}
+     {"title": "2048", "text": "", "tags": "2048 threes", "url": "Games/2048/"},
+     {"title": "The Nimpossible Game", "text": "", "tags": "hard impossible nimpossible", "url": "Games/The-Nimpossible-Game/"},
+     {"title": "Sir Shield", "text": "", "tags": "sir shield shields warriors", "url": "Games/Sir-Shield/"},
+     {"title": "Battle Gear: US War", "text": "", "tags": "battle gear us war", "url": "Games/Battle-Gear-US-War/"},
+     {"title": "Battle Gear: Missile Attack", "text": "", "tags": "battle gear missile missiles attack attacks", "url": "Games/Battle-Gear-Missile-Attack/"},
+     {"title": "Age of War", "text": "", "tags": "ages age of war wars", "url": "Games/Age-Of-War/"},
+     {"title": "Age of War 2", "text": "", "tags": "ages age of war wars 2", "url": "Games/Age-Of-War-2/"},
+     {"title": "Age of War 3", "text": "", "tags": "ages age of war wars 3", "url": "Games/Age-Of-War-3/"},
+     {"title": "Age of War 4", "text": "", "tags": "ages age of war wars 4", "url": "Games/Age-Of-War-4/"},
+     {"title": "Age of War 5", "text": "", "tags": "ages age of war wars 5", "url": "Games/Age-Of-War-5/"},
+     {"title": "Age of War 6", "text": "", "tags": "ages age of war wars 6", "url": "Games/Age-Of-War-6/"},
+     {"title": "Age of War 7", "text": "", "tags": "ages age of war wars 7", "url": "Games/Age-Of-War-7/"},
+     {"title": "Age of War 8", "text": "", "tags": "ages age of war wars 8", "url": "Games/Age-Of-War-8/"},
 ]};
 
 
