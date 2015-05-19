@@ -16,4 +16,4 @@ Anthony Griffith,
 Jamie Reinholdt
 
 Beta Testers: 
-Jamie Reinholdt,
+Jamie Reinholdt
