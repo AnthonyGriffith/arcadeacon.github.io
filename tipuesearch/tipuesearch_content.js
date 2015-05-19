@@ -32,7 +32,13 @@ var tipuesearch = {"pages": [
      {"title": "Age of War 5", "text": "", "tags": "ages age of war wars 5", "url": "Games/Age-Of-War-5/"},
      {"title": "Age of War 6", "text": "", "tags": "ages age of war wars 6", "url": "Games/Age-Of-War-6/"},
      {"title": "Age of War 7", "text": "", "tags": "ages age of war wars 7", "url": "Games/Age-Of-War-7/"},
-     {"title": "Age of War 8", "text": "", "tags": "ages age of war wars 8", "url": "Games/Age-Of-War-8/"}
+     {"title": "Age of War 8", "text": "", "tags": "ages age of war wars 8", "url": "Games/Age-Of-War-8/"},
+     {"title": "Battle Gear 3", "text": "", "tags": "battle gear war battles 3", "url": "Games/Battle-Gear-3/"},
+     {"title": "Battle Gear 2.5", "text": "", "tags": "battle gear war battles 2.5", "url": "Games/Battle-Gear-2-5/"},
+     {"title": "Battle Gear 2", "text": "", "tags": "battle gear war battles 2", "url": "Games/Battle-Gear-2/"},
+     {"title": "Battle Gear", "text": "", "tags": "battle gear war battles", "url": "Games/Battle-Gear/"},
+     {"title": "Super Stacker", "text": "", "tags": "super stacker stacking", "url": "Games/Super-Stacker/"},
+     {"title": "Heaven or Hell", "text": "", "tags": "heaven or hell life death", "url": "Games/Heaven-or-Hell/"}
 ]};
 
 
