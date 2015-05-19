@@ -32,7 +32,7 @@ var tipuesearch = {"pages": [
      {"title": "Age of War 5", "text": "", "tags": "ages age of war wars 5", "url": "Games/Age-Of-War-5/"},
      {"title": "Age of War 6", "text": "", "tags": "ages age of war wars 6", "url": "Games/Age-Of-War-6/"},
      {"title": "Age of War 7", "text": "", "tags": "ages age of war wars 7", "url": "Games/Age-Of-War-7/"},
-     {"title": "Age of War 8", "text": "", "tags": "ages age of war wars 8", "url": "Games/Age-Of-War-8/"},
+     {"title": "Age of War 8", "text": "", "tags": "ages age of war wars 8", "url": "Games/Age-Of-War-8/"}
 ]};
 
 
