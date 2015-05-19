@@ -13,9 +13,7 @@ Anthony Griffith
 Members:
 Tadeo Kondrak,
 Anthony Griffith,
-Justin Weisser,
 Jamie Reinholdt
 
 Beta Testers: 
 Jamie Reinholdt,
-Justin Weisser
