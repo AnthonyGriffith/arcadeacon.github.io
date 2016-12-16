@@ -20,7 +20,6 @@ var tipuesearch = {"pages": [
      {"title": "Steak and Jake: Midnight March", "text": "", "tags": "Steak and Jake: Midnight March", "url": "Games/Steak-and-Jake-Midnight-March/"},
      {"title": "Medieval Fury", "text": "", "tags": "fury medieval medeival exclusive", "url": "Games/Medieval-Fury/"},
      {"title": "Circle Clicker", "text": "", "tags": "circle clicker cookie", "url": "Games/Circle-Clicker/"},
-     {"title": "2048", "text": "", "tags": "2048 threes", "url": "Games/2048/"},
      {"title": "The Nimpossible Game", "text": "", "tags": "hard impossible nimpossible", "url": "Games/The-Nimpossible-Game/"},
      {"title": "Sir Shield", "text": "", "tags": "sir shield shields warriors", "url": "Games/Sir-Shield/"},
      {"title": "Battle Gear: US War", "text": "", "tags": "battle gear us war", "url": "Games/Battle-Gear-US-War/"},
