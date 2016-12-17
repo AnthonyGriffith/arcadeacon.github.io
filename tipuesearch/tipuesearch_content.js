@@ -40,7 +40,7 @@ var tipuesearch = {"pages": [
      {"title": "Battle Gear", "text": "", "tags": "battle gear war battles", "url": "Games/Battle-Gear/"},
      {"title": "Super Stacker", "text": "", "tags": "super stacker stacking", "url": "Games/Super-Stacker/"},
      {"title": "Heaven or Hell", "text": "", "tags": "heaven or hell life death", "url": "Games/Heaven-or-Hell/"}
-     {"title": "Road of the Dead", "text": "", "tags": "road of the dead zombie zombies
+     {"title": "Road of the Dead", "text": "", "tags": "road of the dead zombie zombies", "url": "Games/Road-of-the-Dead/"}
 ]};
 
 
