@@ -41,6 +41,7 @@ var tipuesearch = {"pages": [
      {"title": "Super Stacker", "text": "", "tags": "super stacker stacking", "url": "Games/Super-Stacker/"},
      {"title": "Heaven or Hell", "text": "", "tags": "heaven or hell life death", "url": "Games/Heaven-or-Hell/"}
      {"title": "Road of the Dead", "text": "", "tags": "road of the dead zombie zombies", "url": "Games/Road-of-the-Dead/"}
+     {"title": "Whack Your Ex", "text": "", "tags": "whack your ex", "url": "Games/Whack-Your-Ex/"}
 ]};
 
 
