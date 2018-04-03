@@ -1,4 +1,4 @@
-# Arcadeacon ![](https://img.shields.io/badge/Status-In%20Progress-yellow.svg) 
+# Arcadeacon ![](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/bt345.svg) 
 Arcadeacon: An ad-free flash game website without any clutter.
 
 Staff:
