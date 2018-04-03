@@ -4,10 +4,10 @@ Arcadeacon: An ad-free flash game website without any clutter.
 Staff:
 
 Creator:
-Anthony Griffith
+Anthony G
 
 Developers:
-Anthony Griffith
+Anthony G
 
 Game Suggestors:
 None Currently!
