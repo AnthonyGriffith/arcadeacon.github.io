@@ -7,12 +7,3 @@ Staff:
 
 Creator:
 Anthony G
-
-Developers:
-**None**
-
-Game Suggestors:
-**None**
-
-Beta Testers: 
-**None**
